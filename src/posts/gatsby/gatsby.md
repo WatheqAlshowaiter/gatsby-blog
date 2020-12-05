@@ -1,5 +1,5 @@
 ---
-title: "Gatsby Course on FreeCodeCamp"
+title: "Gatsby intro"
 date: "30-11-2020"
 ---
 
