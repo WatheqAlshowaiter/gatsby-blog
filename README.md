@@ -97,3 +97,47 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+
+## todo
+
+- [] make multible RTL and LTR site
+- [] make the dark mode feature
+- [] add discuss comments feature
+- [] add the ability to add video like the images
+- [] make suitable paginaation or scrolling 
+- [] add aesthetics color pallette
+- [] adding https (ssl)
+- [] sharing on social media feature (facebook, twitter, linkedin, etc)
+- [] adding RSS feeds
+- [] adding mailing list
+- [] adding google analytics
+- [] change the favicon to .ico 
+- [] adding my logo
+- [] adding my services & portfolio & call for action
+- [] adding thumbnails to every blog post (very important)
+- [] make an exerpt for every post
+- [] make a good seach feature
+- [] make feature for the best posts in the blog
+- [] adding the category / tags  for every post 
+- [] adding randome posts / most viewd posts ..etc
+- [] adding a better section for advertisment
+- [] tags should be clickable
+- [] choose better font
+- [] adding icons
+- [] automatic sitemap
+- [] everything in the frontend checklist
+- [] checking the website for (google webmasters, bing, Yandex, buido)
+- [] adding my social media profiles (twitter, linkedin, hsoub io, hsoub academy, my freelancing websites)
+- [] make it suitable for Google adsense
+- [] adding robots.txt 
+- [] adding first publishing date and updating date
+- [] adding Google analytics
+- [] adding recommended post when finished reading posts
+- [] adding Higry date for posts
+
+
+## example to follow
+1.
+
+
