@@ -6,7 +6,7 @@
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
-    "develop": "env-cmd -f .env gatsby develop",
+    "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -16,6 +16,7 @@
   "dependencies": {
     "@contentful/rich-text-react-renderer": "^14.1.2",
     "gatsby": "^2.26.1",
+    "gatsby-plugin-i18n": "^1.0.1",
     "gatsby-plugin-react-helmet": "^3.6.0",
     "gatsby-plugin-sass": "^2.6.0",
     "gatsby-plugin-sharp": "^2.10.0",
@@ -30,7 +31,6 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "env-cmd": "^10.1.0",
     "prettier": "2.1.2"
   },
   "repository": {

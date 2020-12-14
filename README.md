@@ -120,7 +120,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - [] make a good seach feature
 - [] make feature for the best posts in the blog
 - [] adding the category / tags  for every post 
-- [] adding randome posts / most viewd posts ..etc
 - [] adding a better section for advertisment
 - [] tags should be clickable
 - [] choose better font
@@ -138,6 +137,5 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 
 ## example to follow
-1.
-
-
+1. https://faisal.sh/ (nice looking, dark mode time to read, social sharing)
+2. 

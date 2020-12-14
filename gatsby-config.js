@@ -8,6 +8,7 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `Watheq Website`,
+    titleAr: 'موقع واثق',
     author: `Watheq Alshowaiter`,
   },
   plugins: [
@@ -33,6 +34,32 @@ module.exports = {
             },
           },
         ],
+      },
+    },
+    {
+      resolve: "gatsby-plugin-i18n",
+      options: {
+        langKeyDefault: 'en',
+        langKeyForNull: 'en',
+        useLangKeyLayout: true,// for RTL we should make it true
+        prefixDefault: false,
+        markdownRemark: {
+          postPage: require.resolve("./src/templates/blog.js"),
+          query: `
+          {
+            allMarkdownRemark {
+              edges {
+                node {
+                  fields {
+                    slug,
+                    langKey
+                  }
+                }
+              }
+            }
+          }
+          `,
+        },
       },
     },
   ],
