@@ -8,7 +8,7 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `Watheq Website`,
-    titleAr: 'موقع واثق',
+    titleAr: "موقع واثق",
     author: `Watheq Alshowaiter`,
   },
   plugins: [
@@ -39,10 +39,11 @@ module.exports = {
     {
       resolve: "gatsby-plugin-i18n",
       options: {
-        langKeyDefault: 'en',
-        langKeyForNull: 'en',
-        useLangKeyLayout: true,// for RTL we should make it true
+        langKeyDefault: "en",
+        langKeyForNull: "en",
+        useLangKeyLayout: true, // for RTL we should make it true
         prefixDefault: false,
+        postPage: 'src/templates/kb-post.js',
         markdownRemark: {
           postPage: require.resolve("./src/templates/blog.js"),
           query: `
