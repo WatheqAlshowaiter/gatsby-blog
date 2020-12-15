@@ -7,7 +7,7 @@ const IndexPage = () => {
     <Layout>
       <Head title="Home" />
       <h1>مرحبا، أنا واثق</h1>
-      <h2>مطور ويب شامل</h2>
+      <h2>مطور ويب</h2>
     </Layout>
   )
 }

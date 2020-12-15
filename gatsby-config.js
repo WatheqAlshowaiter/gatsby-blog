@@ -44,7 +44,6 @@ module.exports = {
         useLangKeyLayout: true, // for RTL we should make it true
         prefixDefault: false,
         postPage: "src/templates/blog.js",
-        pagesPaths: "src/templates/blog.js",
         markdownRemark: {
           postPage: require.resolve("./src/templates/blog.js"),
           query: `
