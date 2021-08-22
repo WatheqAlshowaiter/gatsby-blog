@@ -138,4 +138,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## example to follow
 1. https://faisal.sh/ (nice looking, dark mode time to read, social sharing)
-2. 
