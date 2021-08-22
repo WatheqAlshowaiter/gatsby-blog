@@ -134,7 +134,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - [] adding Google analytics
 - [] adding recommended post when finished reading posts
 - [] adding Higry date for posts
-
-
-## example to follow
-1. https://faisal.sh/ (nice looking, dark mode time to read, social sharing)
